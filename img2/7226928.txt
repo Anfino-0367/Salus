@@ -1,0 +1,19 @@
+->  Admin :                      ( Pin: 695015 )
+    Username - admin@gmail.com
+    Password - admin
+
+->  Normal user :
+    Username - am@gmail.com
+    Password - 123
+
+-> Service provider 1 :
+    Username - ak@gmail.com
+    Password - 123
+
+-> Service provider 2 :
+    Username - ni@gmail.com
+    Password - 123
+
+-> police :
+   Username - man@gmail.com
+   Password - 123
